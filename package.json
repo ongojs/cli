@@ -1,0 +1,28 @@
+{
+  "name": "@ongojs/cli",
+  "version": "0.0.0",
+  "description": "cli",
+  "main": "index.js",
+  "bin": {
+    "cli": "bin/index.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "vitest --globals"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ongojs/cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Ericson S. Weah <ericson.weah@gmail.com> (https://www.ericsonweah.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ongojs/cli/issues"
+  },
+  "homepage": "https://github.com/ongojs/cli#readme"
+}
